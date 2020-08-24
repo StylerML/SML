@@ -214,7 +214,21 @@ Black * {
 	background: white;
 }
 
+Back-Black * {
+	background: black;
+}
+
+Back-White * {
+	background: white;
+}
+
 /* Extras */
 *[code=true] {
 	background-color: black;
+	color: white;
+}
+
+CodeStyler * {
+	background: black;
+	color: white;
 }
