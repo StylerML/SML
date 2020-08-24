@@ -222,6 +222,20 @@ Back-White * {
 	background: white;
 }
 
+/* Align-Content */
+*[align-content=stretch] {
+	align-content: stretch;
+}
+
+AC-Stretch * {
+	align-content: stretch;
+}
+
+*[align-content=center] {
+	align-content: center;
+}
+
+AC-Center
 /* Extras */
 *[code=true] {
 	background-color: black;
