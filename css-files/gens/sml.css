@@ -1,0 +1,220 @@
+/* @imports */
+
+/* Fonts */
+*[font-family=Arial] {
+	font-family: Arial, sans-serif;
+}
+
+*[font-family='Times New Roman'] {
+	font-family: 'Times New Roman', serif;
+}
+
+*[font-family=Times] {
+	font-family: 'Times', serif;
+}
+
+*[font-family='Courier New'] {
+	font-family: 'Courier New', monospace, serif;
+}
+
+*[font-family=Courier] {
+	font-family: Courier, monospace, serif;
+}
+
+*[font-family=Verdana] {
+	font-family: Verdana, sans-serif;
+}
+
+*[font-family=Georgia] {
+	font-family: Georgia, serif;
+}
+
+*[font-family=Palitino] {
+	font-family: Palitino, serif;
+}
+
+*[font-family=Garamond] {
+	font-family: Garamond, serif;
+}
+
+*[font-family=Bookman] {
+	font-family: Bookman, serif;
+}
+
+*[font-family=Tahoma] {
+	font-family: Tahoma, sans-serif;
+}
+
+*[font-family='Trebuchet MS'] {
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+*[font-family='Arial Black'] {
+	font-family: 'Arial Black', sans-serif;
+}
+
+*[font-family=Impact] {
+	font-family: Impact, sans-serif;
+}
+
+Arial * {
+	font-family: Arial;
+}
+
+Times-New-Roman * {
+	font-family: 'Times New Roman', serif;
+}
+
+Times * {
+	font-family: 'Times', serif;
+}
+
+Courier-New * {
+	font-family: 'Courier New', monospace, serif;
+}
+
+Courier * {
+	font-family: Courier, monospace, serif;
+}
+
+Verdana * {
+	font-family: Verdana, sans-serif;
+}
+
+Georgia * {
+	font-family: Georgia, serif;
+}
+
+Palitino * {
+	font-family: Palitino, serif;
+}
+
+Garamond * {
+	font-family: Garamond, serif;
+}
+
+Bookman * {
+	font-family: Bookman, serif;
+}
+
+Bookman-Old-Style * {
+	font-family: Bookman, serif;
+}
+
+Tahoma * {
+	font-family: Tahoma, sans-serif;
+}
+
+Trebuchet-MS * {
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+Arial-Black * {
+	font-family: 'Arial Black', sans-serif;
+}
+
+Impact * {
+	font-family: Impact, sans-serif;
+}
+/* color */
+*[color=red] {
+	color: red;
+}
+
+*[color=white] {
+	color: white;
+}
+
+*[color=orange] {
+	color: orange;
+}
+
+*[color=yellow] {
+	color: yellow;
+}
+
+*[color=gray] {
+	color: gray;
+}
+
+*[color=grey] {
+	color: gray;
+}
+
+*[color=green] {
+	color: green;
+}
+
+*[color=blue] {
+	color: blue;
+}
+
+*[color=purple] {
+	color: purple;
+}
+
+*[color=pink] {
+	color: pink;
+}
+
+*[color=black] {
+	color: black;
+}
+
+Red * {
+	color: red;
+}
+
+White * {
+	color: white;
+}
+
+Orange * {
+	color: orange;
+}
+
+Yellow * {
+	color: yellow;
+}
+
+Gray * {
+	color: gray;
+}
+
+Grey * {
+	color: gray;
+}
+
+Green * {
+	color: green;
+}
+
+Blue * {
+	color: blue;
+}
+
+Purple * {
+	color: purple;
+}
+
+Pink * {
+	color: pink;
+}
+
+Black * {
+	color: black;
+}
+
+/* background color */
+*[background-color=black] {
+	background: black;
+}
+
+*[background-color=white] {
+	background: white;
+}
+
+/* Extras */
+*[code=true] {
+	background-color: black;
+}
